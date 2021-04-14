@@ -132,6 +132,7 @@ function Checkin() {
         }
       });
     }
+    resolve();
   });
 }
 
