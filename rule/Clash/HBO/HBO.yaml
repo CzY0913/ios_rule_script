@@ -1,9 +1,10 @@
 # NAME: HBO
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-14 00:18:08
+# UPDATED: 2021-04-15 02:20:46
 # DOMAIN-SUFFIX: 32
-# TOTAL: 32
+# PROCESS-NAME: 1
+# TOTAL: 33
 payload:
   - DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
   - DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
@@ -37,3 +38,4 @@ payload:
   - DOMAIN-SUFFIX,players.brightcove.net
   - DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com
   - DOMAIN-SUFFIX,youboranqs01.com
+  - PROCESS-NAME,com.hbo.hbonow

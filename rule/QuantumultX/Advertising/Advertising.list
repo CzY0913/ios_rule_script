@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-14 00:18:02
+# UPDATED: 2021-04-15 02:20:45
 # HOST-KEYWORD: 59
-# HOST-SUFFIX: 45091
-# HOST: 20731
+# HOST-SUFFIX: 45093
+# HOST: 20723
 # IP-CIDR: 247
 # IP6-CIDR: 1
-# TOTAL: 66129
+# TOTAL: 66123
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -69,7 +69,6 @@ HOST,1.pandawamovie.com,Advertising
 HOST,1.up.qingdaonews.com,Advertising
 HOST,100.1qingdao.com,Advertising
 HOST,1000avenue.com,Advertising
-HOST,1000cumshots.com,Advertising
 HOST,1000lashes.com,Advertising
 HOST,1000russianwomen.com,Advertising
 HOST,1001lingerie.com,Advertising
@@ -94,7 +93,6 @@ HOST,11f976743800.com,Advertising
 HOST,121media.com,Advertising
 HOST,123-tracker.com,Advertising
 HOST,123.8w8w8w.com.cn,Advertising
-HOST,123.ydylwang.net,Advertising
 HOST,123counter.mycomputer.com,Advertising
 HOST,123freeavatars.com,Advertising
 HOST,123greetings.com,Advertising
@@ -4243,6 +4241,7 @@ HOST,bracewellfamily.com,Advertising
 HOST,bradesco2.coteaquisaude.com,Advertising
 HOST,bradinfo.org,Advertising
 HOST,bradmccrady.com,Advertising
+HOST,bradyhansen.com,Advertising
 HOST,braincash.com,Advertising
 HOST,brainfox.com,Advertising
 HOST,brakehawk.com,Advertising
@@ -10283,6 +10282,7 @@ HOST,incomekey.net,Advertising
 HOST,incomeliberation.com,Advertising
 HOST,incontech.owncube.com,Advertising
 HOST,incredbile.tintubright.com,Advertising
+HOST,incstone.com,Advertising
 HOST,indahtour.com,Advertising
 HOST,indemandads.com,Advertising
 HOST,index.0470key.com,Advertising
@@ -10490,7 +10490,6 @@ HOST,ipm-provider.ff.avast.com,Advertising
 HOST,ipm.corel.com,Advertising
 HOST,iposhora.com,Advertising
 HOST,ipromsi.iprom.net,Advertising
-HOST,ipshougou.com,Advertising
 HOST,iptvcolombia.com,Advertising
 HOST,iqbalandsons.com,Advertising
 HOST,iqfindia.org,Advertising
@@ -11261,7 +11260,6 @@ HOST,lastmeasure.zoy.org,Advertising
 HOST,lastoriamilitare.com,Advertising
 HOST,lasvegastravelcompany.com,Advertising
 HOST,lataherbalbd.com,Advertising
-HOST,latency.ttrraacckkrr.com,Advertising
 HOST,latest.accountkit.com,Advertising
 HOST,latetothemovies.com,Advertising
 HOST,latinnexusgroup.com,Advertising
@@ -11337,7 +11335,6 @@ HOST,leesangku.com,Advertising
 HOST,leethax.net,Advertising
 HOST,leetskins.com,Advertising
 HOST,leewelton.com,Advertising
-HOST,lefopost.com,Advertising
 HOST,leforma.com,Advertising
 HOST,legacy.clickability.com,Advertising
 HOST,legacydocs.fyber.com,Advertising
@@ -11478,7 +11475,6 @@ HOST,likespike.com,Advertising
 HOST,likeventy.com,Advertising
 HOST,likingyetsnarl.com,Advertising
 HOST,likondok.com,Advertising
-HOST,lilhajj.com,Advertising
 HOST,lilian.redirectme.net,Advertising
 HOST,lily-ksa.com,Advertising
 HOST,lilyjewellers.com,Advertising
@@ -11802,7 +11798,6 @@ HOST,m.casino888vn.com,Advertising
 HOST,m.cityads.com,Advertising
 HOST,m.clickability.com,Advertising
 HOST,m.cnsparkler.com,Advertising
-HOST,m.epoch168.com,Advertising
 HOST,m.five88.com,Advertising
 HOST,m.jdhq188.cn,Advertising
 HOST,m.jsqinvest.com,Advertising
@@ -13664,7 +13659,6 @@ HOST,onlineads.magicvalley.com,Advertising
 HOST,onlinebusiness-coach.com,Advertising
 HOST,onlinecareerpackage.com,Advertising
 HOST,onlinecash.com,Advertising
-HOST,onlinecashmethod.com,Advertising
 HOST,onlinedetect.com,Advertising
 HOST,onlinedownloads.org,Advertising
 HOST,onlinefileshares.com,Advertising
@@ -15247,6 +15241,7 @@ HOST,reduxmedia.com,Advertising
 HOST,redwoodpecker.com,Advertising
 HOST,reedbusiness.com,Advertising
 HOST,reedmac1.actonsoftware.com,Advertising
+HOST,reelvidz.com,Advertising
 HOST,refconstruct.com,Advertising
 HOST,refercredit.com,Advertising
 HOST,referdriving.com,Advertising
@@ -15568,7 +15563,6 @@ HOST,rq.adsbing.com,Advertising
 HOST,rrforeverjewellery.com,Advertising
 HOST,rs.instantservice.com,Advertising
 HOST,rs28-jhb.za-dns.com,Advertising
-HOST,rsalchk.com,Advertising
 HOST,rsc.cdn77.org,Advertising
 HOST,rsc.scmspain.com,Advertising
 HOST,rsdownload.rising.com.cn,Advertising
@@ -19243,7 +19237,6 @@ HOST,vietalle.com,Advertising
 HOST,vietbuzzad.com,Advertising
 HOST,vietdorje.com,Advertising
 HOST,vietravel.ezimar.com,Advertising
-HOST,view-ads.de,Advertising
 HOST,view-affiliwelt.net,Advertising
 HOST,view-doc.thaiengine.com,Advertising
 HOST,viewdocs.000webhostapp.com,Advertising
@@ -20433,7 +20426,6 @@ HOST,yinmikbest.com,Advertising
 HOST,yinputech.com,Advertising
 HOST,yinyuanhotel.net,Advertising
 HOST,yiqisese.com,Advertising
-HOST,yiqishangmao.com,Advertising
 HOST,yiren02.com,Advertising
 HOST,yisouxinxi.com,Advertising
 HOST,yixingim.com,Advertising
@@ -49807,6 +49799,7 @@ HOST-SUFFIX,pcejuyhjucmkiny.ru,Advertising
 HOST-SUFFIX,pcfg.wps.cn,Advertising
 HOST-SUFFIX,pcgamer-gb.pcgamer.com,Advertising
 HOST-SUFFIX,pci3oo5mg4mn-a.akamaihd.net,Advertising
+HOST-SUFFIX,pcidata.cn,Advertising
 HOST-SUFFIX,pciidk.shopee.vn,Advertising
 HOST-SUFFIX,pcjdyp.com,Advertising
 HOST-SUFFIX,pclick.europe.yahoo.com,Advertising
@@ -54759,6 +54752,7 @@ HOST-SUFFIX,shuccn.com,Advertising
 HOST-SUFFIX,shuiguo.com,Advertising
 HOST-SUFFIX,shuihulu.com,Advertising
 HOST-SUFFIX,shuikan.xyz,Advertising
+HOST-SUFFIX,shujupie.com,Advertising
 HOST-SUFFIX,shujuwu.com,Advertising
 HOST-SUFFIX,shukongshebei.net,Advertising
 HOST-SUFFIX,shunguts.com,Advertising

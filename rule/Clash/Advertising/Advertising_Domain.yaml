@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-14 00:18:07
+# UPDATED: 2021-04-15 02:20:45
 # DOMAIN-KEYWORD: 59
-# DOMAIN-SUFFIX: 45091
-# DOMAIN: 20731
+# DOMAIN-SUFFIX: 45093
+# DOMAIN: 20723
 # IP-CIDR: 247
 # IP-CIDR6: 1
-# TOTAL: 66129
+# TOTAL: 66123
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -70,7 +70,6 @@ payload:
   - '1.up.qingdaonews.com'
   - '100.1qingdao.com'
   - '1000avenue.com'
-  - '1000cumshots.com'
   - '1000lashes.com'
   - '1000russianwomen.com'
   - '1001lingerie.com'
@@ -95,7 +94,6 @@ payload:
   - '121media.com'
   - '123-tracker.com'
   - '123.8w8w8w.com.cn'
-  - '123.ydylwang.net'
   - '123counter.mycomputer.com'
   - '123freeavatars.com'
   - '123greetings.com'
@@ -4244,6 +4242,7 @@ payload:
   - 'bradesco2.coteaquisaude.com'
   - 'bradinfo.org'
   - 'bradmccrady.com'
+  - 'bradyhansen.com'
   - 'braincash.com'
   - 'brainfox.com'
   - 'brakehawk.com'
@@ -10284,6 +10283,7 @@ payload:
   - 'incomeliberation.com'
   - 'incontech.owncube.com'
   - 'incredbile.tintubright.com'
+  - 'incstone.com'
   - 'indahtour.com'
   - 'indemandads.com'
   - 'index.0470key.com'
@@ -10491,7 +10491,6 @@ payload:
   - 'ipm.corel.com'
   - 'iposhora.com'
   - 'ipromsi.iprom.net'
-  - 'ipshougou.com'
   - 'iptvcolombia.com'
   - 'iqbalandsons.com'
   - 'iqfindia.org'
@@ -11262,7 +11261,6 @@ payload:
   - 'lastoriamilitare.com'
   - 'lasvegastravelcompany.com'
   - 'lataherbalbd.com'
-  - 'latency.ttrraacckkrr.com'
   - 'latest.accountkit.com'
   - 'latetothemovies.com'
   - 'latinnexusgroup.com'
@@ -11338,7 +11336,6 @@ payload:
   - 'leethax.net'
   - 'leetskins.com'
   - 'leewelton.com'
-  - 'lefopost.com'
   - 'leforma.com'
   - 'legacy.clickability.com'
   - 'legacydocs.fyber.com'
@@ -11479,7 +11476,6 @@ payload:
   - 'likeventy.com'
   - 'likingyetsnarl.com'
   - 'likondok.com'
-  - 'lilhajj.com'
   - 'lilian.redirectme.net'
   - 'lily-ksa.com'
   - 'lilyjewellers.com'
@@ -11803,7 +11799,6 @@ payload:
   - 'm.cityads.com'
   - 'm.clickability.com'
   - 'm.cnsparkler.com'
-  - 'm.epoch168.com'
   - 'm.five88.com'
   - 'm.jdhq188.cn'
   - 'm.jsqinvest.com'
@@ -13665,7 +13660,6 @@ payload:
   - 'onlinebusiness-coach.com'
   - 'onlinecareerpackage.com'
   - 'onlinecash.com'
-  - 'onlinecashmethod.com'
   - 'onlinedetect.com'
   - 'onlinedownloads.org'
   - 'onlinefileshares.com'
@@ -15248,6 +15242,7 @@ payload:
   - 'redwoodpecker.com'
   - 'reedbusiness.com'
   - 'reedmac1.actonsoftware.com'
+  - 'reelvidz.com'
   - 'refconstruct.com'
   - 'refercredit.com'
   - 'referdriving.com'
@@ -15569,7 +15564,6 @@ payload:
   - 'rrforeverjewellery.com'
   - 'rs.instantservice.com'
   - 'rs28-jhb.za-dns.com'
-  - 'rsalchk.com'
   - 'rsc.cdn77.org'
   - 'rsc.scmspain.com'
   - 'rsdownload.rising.com.cn'
@@ -19244,7 +19238,6 @@ payload:
   - 'vietbuzzad.com'
   - 'vietdorje.com'
   - 'vietravel.ezimar.com'
-  - 'view-ads.de'
   - 'view-affiliwelt.net'
   - 'view-doc.thaiengine.com'
   - 'viewdocs.000webhostapp.com'
@@ -20434,7 +20427,6 @@ payload:
   - 'yinputech.com'
   - 'yinyuanhotel.net'
   - 'yiqisese.com'
-  - 'yiqishangmao.com'
   - 'yiren02.com'
   - 'yisouxinxi.com'
   - 'yixingim.com'
@@ -49808,6 +49800,7 @@ payload:
   - '.pcfg.wps.cn'
   - '.pcgamer-gb.pcgamer.com'
   - '.pci3oo5mg4mn-a.akamaihd.net'
+  - '.pcidata.cn'
   - '.pciidk.shopee.vn'
   - '.pcjdyp.com'
   - '.pclick.europe.yahoo.com'
@@ -54760,6 +54753,7 @@ payload:
   - '.shuiguo.com'
   - '.shuihulu.com'
   - '.shuikan.xyz'
+  - '.shujupie.com'
   - '.shujuwu.com'
   - '.shukongshebei.net'
   - '.shunguts.com'

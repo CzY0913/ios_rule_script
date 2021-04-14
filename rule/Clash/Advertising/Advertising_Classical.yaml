@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-14 00:18:07
+# UPDATED: 2021-04-15 02:20:45
 # DOMAIN-KEYWORD: 59
-# DOMAIN-SUFFIX: 45091
-# DOMAIN: 20731
+# DOMAIN-SUFFIX: 45093
+# DOMAIN: 20723
 # IP-CIDR: 247
 # IP-CIDR6: 1
-# TOTAL: 66129
+# TOTAL: 66123
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -70,7 +70,6 @@ payload:
   - DOMAIN,1.up.qingdaonews.com
   - DOMAIN,100.1qingdao.com
   - DOMAIN,1000avenue.com
-  - DOMAIN,1000cumshots.com
   - DOMAIN,1000lashes.com
   - DOMAIN,1000russianwomen.com
   - DOMAIN,1001lingerie.com
@@ -95,7 +94,6 @@ payload:
   - DOMAIN,121media.com
   - DOMAIN,123-tracker.com
   - DOMAIN,123.8w8w8w.com.cn
-  - DOMAIN,123.ydylwang.net
   - DOMAIN,123counter.mycomputer.com
   - DOMAIN,123freeavatars.com
   - DOMAIN,123greetings.com
@@ -4244,6 +4242,7 @@ payload:
   - DOMAIN,bradesco2.coteaquisaude.com
   - DOMAIN,bradinfo.org
   - DOMAIN,bradmccrady.com
+  - DOMAIN,bradyhansen.com
   - DOMAIN,braincash.com
   - DOMAIN,brainfox.com
   - DOMAIN,brakehawk.com
@@ -10284,6 +10283,7 @@ payload:
   - DOMAIN,incomeliberation.com
   - DOMAIN,incontech.owncube.com
   - DOMAIN,incredbile.tintubright.com
+  - DOMAIN,incstone.com
   - DOMAIN,indahtour.com
   - DOMAIN,indemandads.com
   - DOMAIN,index.0470key.com
@@ -10491,7 +10491,6 @@ payload:
   - DOMAIN,ipm.corel.com
   - DOMAIN,iposhora.com
   - DOMAIN,ipromsi.iprom.net
-  - DOMAIN,ipshougou.com
   - DOMAIN,iptvcolombia.com
   - DOMAIN,iqbalandsons.com
   - DOMAIN,iqfindia.org
@@ -11262,7 +11261,6 @@ payload:
   - DOMAIN,lastoriamilitare.com
   - DOMAIN,lasvegastravelcompany.com
   - DOMAIN,lataherbalbd.com
-  - DOMAIN,latency.ttrraacckkrr.com
   - DOMAIN,latest.accountkit.com
   - DOMAIN,latetothemovies.com
   - DOMAIN,latinnexusgroup.com
@@ -11338,7 +11336,6 @@ payload:
   - DOMAIN,leethax.net
   - DOMAIN,leetskins.com
   - DOMAIN,leewelton.com
-  - DOMAIN,lefopost.com
   - DOMAIN,leforma.com
   - DOMAIN,legacy.clickability.com
   - DOMAIN,legacydocs.fyber.com
@@ -11479,7 +11476,6 @@ payload:
   - DOMAIN,likeventy.com
   - DOMAIN,likingyetsnarl.com
   - DOMAIN,likondok.com
-  - DOMAIN,lilhajj.com
   - DOMAIN,lilian.redirectme.net
   - DOMAIN,lily-ksa.com
   - DOMAIN,lilyjewellers.com
@@ -11803,7 +11799,6 @@ payload:
   - DOMAIN,m.cityads.com
   - DOMAIN,m.clickability.com
   - DOMAIN,m.cnsparkler.com
-  - DOMAIN,m.epoch168.com
   - DOMAIN,m.five88.com
   - DOMAIN,m.jdhq188.cn
   - DOMAIN,m.jsqinvest.com
@@ -13665,7 +13660,6 @@ payload:
   - DOMAIN,onlinebusiness-coach.com
   - DOMAIN,onlinecareerpackage.com
   - DOMAIN,onlinecash.com
-  - DOMAIN,onlinecashmethod.com
   - DOMAIN,onlinedetect.com
   - DOMAIN,onlinedownloads.org
   - DOMAIN,onlinefileshares.com
@@ -15248,6 +15242,7 @@ payload:
   - DOMAIN,redwoodpecker.com
   - DOMAIN,reedbusiness.com
   - DOMAIN,reedmac1.actonsoftware.com
+  - DOMAIN,reelvidz.com
   - DOMAIN,refconstruct.com
   - DOMAIN,refercredit.com
   - DOMAIN,referdriving.com
@@ -15569,7 +15564,6 @@ payload:
   - DOMAIN,rrforeverjewellery.com
   - DOMAIN,rs.instantservice.com
   - DOMAIN,rs28-jhb.za-dns.com
-  - DOMAIN,rsalchk.com
   - DOMAIN,rsc.cdn77.org
   - DOMAIN,rsc.scmspain.com
   - DOMAIN,rsdownload.rising.com.cn
@@ -19244,7 +19238,6 @@ payload:
   - DOMAIN,vietbuzzad.com
   - DOMAIN,vietdorje.com
   - DOMAIN,vietravel.ezimar.com
-  - DOMAIN,view-ads.de
   - DOMAIN,view-affiliwelt.net
   - DOMAIN,view-doc.thaiengine.com
   - DOMAIN,viewdocs.000webhostapp.com
@@ -20434,7 +20427,6 @@ payload:
   - DOMAIN,yinputech.com
   - DOMAIN,yinyuanhotel.net
   - DOMAIN,yiqisese.com
-  - DOMAIN,yiqishangmao.com
   - DOMAIN,yiren02.com
   - DOMAIN,yisouxinxi.com
   - DOMAIN,yixingim.com
@@ -49808,6 +49800,7 @@ payload:
   - DOMAIN-SUFFIX,pcfg.wps.cn
   - DOMAIN-SUFFIX,pcgamer-gb.pcgamer.com
   - DOMAIN-SUFFIX,pci3oo5mg4mn-a.akamaihd.net
+  - DOMAIN-SUFFIX,pcidata.cn
   - DOMAIN-SUFFIX,pciidk.shopee.vn
   - DOMAIN-SUFFIX,pcjdyp.com
   - DOMAIN-SUFFIX,pclick.europe.yahoo.com
@@ -54760,6 +54753,7 @@ payload:
   - DOMAIN-SUFFIX,shuiguo.com
   - DOMAIN-SUFFIX,shuihulu.com
   - DOMAIN-SUFFIX,shuikan.xyz
+  - DOMAIN-SUFFIX,shujupie.com
   - DOMAIN-SUFFIX,shujuwu.com
   - DOMAIN-SUFFIX,shukongshebei.net
   - DOMAIN-SUFFIX,shunguts.com

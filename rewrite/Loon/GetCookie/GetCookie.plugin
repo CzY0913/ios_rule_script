@@ -1,7 +1,7 @@
 # NAME: 获取签到脚本Cookie
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-14 00:18:59
+# UPDATED: 2021-04-15 02:20:54
 # REWRITE: 0
 # SCRIPT: 16
 # MITM: 16
@@ -19,7 +19,7 @@ http-request ^https?:\/\/m\.client\.10010\.com\/dailylottery\/static\/(integral|
 http-request ^https?:\/\/maicai\.api\.ddxq\.mobi\/point\/home\?api_version script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/dingdong/dingdong_checkin.js,tag=叮咚买菜_获取cookie
 http-request ^https?:\/\/mall\.meituan\.com\/api\/c\/mallcoin\/checkIn\/getWeekCheckInProgressBar\? script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/meituan/maicai_checkin.js,tag=美团买菜_获取cookie
 http-request ^https?:\/\/pgc-cms\.jzb\.com\/api\/channel\/recommend script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/jiazhangbang/jiazhangbang_checkin.js,tag=家长帮_获取cookie
-http-request ^https?:\/\/www\.didapinche\.com\/hapis\/api\/t\/Jifen\/getSignInInfo\?userCid=.* requires-body=1,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didachuxing/didachuxing_plus.js,tag=嘀嗒出行_获取cookie
+http-request ^https?:\/\/www\.didapinche\.com\/hapis\/api\/t\/Jifen\/.*\?userCid=.* requires-body=1,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didachuxing/didachuxing_plus.js,tag=嘀嗒出行_获取cookie
 http-request ^https?:\/\/zhiyou\.smzdm\.com\/user$ requires-body=1,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.js,tag=什么值得买_获取cookie
 http-response ^https?:\/\/bosp-api\.xiaojukeji\.com\/wechat\/benefit\/public\/v2\/index requires-body=1,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js,tag=滴滴出行_获取GroupId
 http-response ^https?:\/\/pay\.diditaxi\.com\.cn\/web_wallet\/v2\/wallet\/home requires-body=1,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.js,tag=滴滴金融_获取ActivityId与ChannelId

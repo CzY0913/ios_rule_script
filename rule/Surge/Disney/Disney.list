@@ -1,10 +1,11 @@
 # NAME: Disney
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-14 00:18:00
+# UPDATED: 2021-04-15 02:20:44
 # USER-AGENT: 1
 # DOMAIN-SUFFIX: 131
-# TOTAL: 132
+# PROCESS-NAME: 2
+# TOTAL: 134
 DOMAIN-SUFFIX,abc-studios.com
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,adobedtm.com
@@ -137,3 +138,5 @@ DOMAIN-SUFFIX,thisispolaris.com
 DOMAIN-SUFFIX,watchdisneyfe.com
 DOMAIN-SUFFIX,watchespn.com
 USER-AGENT,Disney+*
+PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
+PROCESS-NAME,com.disney.disneyplus

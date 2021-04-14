@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-14 00:18:00
+# UPDATED: 2021-04-15 02:20:44
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 59
-# DOMAIN-SUFFIX: 45091
-# DOMAIN: 20731
+# DOMAIN-SUFFIX: 45093
+# DOMAIN: 20723
 # IP-CIDR: 247
 # IP-CIDR6: 1
 # URL-REGEX: 303
-# TOTAL: 66432
+# TOTAL: 66426
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -71,7 +71,6 @@
 1.up.qingdaonews.com
 100.1qingdao.com
 1000avenue.com
-1000cumshots.com
 1000lashes.com
 1000russianwomen.com
 1001lingerie.com
@@ -96,7 +95,6 @@
 121media.com
 123-tracker.com
 123.8w8w8w.com.cn
-123.ydylwang.net
 123counter.mycomputer.com
 123freeavatars.com
 123greetings.com
@@ -4245,6 +4243,7 @@ bracewellfamily.com
 bradesco2.coteaquisaude.com
 bradinfo.org
 bradmccrady.com
+bradyhansen.com
 braincash.com
 brainfox.com
 brakehawk.com
@@ -10285,6 +10284,7 @@ incomekey.net
 incomeliberation.com
 incontech.owncube.com
 incredbile.tintubright.com
+incstone.com
 indahtour.com
 indemandads.com
 index.0470key.com
@@ -10492,7 +10492,6 @@ ipm-provider.ff.avast.com
 ipm.corel.com
 iposhora.com
 ipromsi.iprom.net
-ipshougou.com
 iptvcolombia.com
 iqbalandsons.com
 iqfindia.org
@@ -11263,7 +11262,6 @@ lastmeasure.zoy.org
 lastoriamilitare.com
 lasvegastravelcompany.com
 lataherbalbd.com
-latency.ttrraacckkrr.com
 latest.accountkit.com
 latetothemovies.com
 latinnexusgroup.com
@@ -11339,7 +11337,6 @@ leesangku.com
 leethax.net
 leetskins.com
 leewelton.com
-lefopost.com
 leforma.com
 legacy.clickability.com
 legacydocs.fyber.com
@@ -11480,7 +11477,6 @@ likespike.com
 likeventy.com
 likingyetsnarl.com
 likondok.com
-lilhajj.com
 lilian.redirectme.net
 lily-ksa.com
 lilyjewellers.com
@@ -11804,7 +11800,6 @@ m.casino888vn.com
 m.cityads.com
 m.clickability.com
 m.cnsparkler.com
-m.epoch168.com
 m.five88.com
 m.jdhq188.cn
 m.jsqinvest.com
@@ -13666,7 +13661,6 @@ onlineads.magicvalley.com
 onlinebusiness-coach.com
 onlinecareerpackage.com
 onlinecash.com
-onlinecashmethod.com
 onlinedetect.com
 onlinedownloads.org
 onlinefileshares.com
@@ -15249,6 +15243,7 @@ reduxmedia.com
 redwoodpecker.com
 reedbusiness.com
 reedmac1.actonsoftware.com
+reelvidz.com
 refconstruct.com
 refercredit.com
 referdriving.com
@@ -15570,7 +15565,6 @@ rq.adsbing.com
 rrforeverjewellery.com
 rs.instantservice.com
 rs28-jhb.za-dns.com
-rsalchk.com
 rsc.cdn77.org
 rsc.scmspain.com
 rsdownload.rising.com.cn
@@ -19245,7 +19239,6 @@ vietalle.com
 vietbuzzad.com
 vietdorje.com
 vietravel.ezimar.com
-view-ads.de
 view-affiliwelt.net
 view-doc.thaiengine.com
 viewdocs.000webhostapp.com
@@ -20435,7 +20428,6 @@ yinmikbest.com
 yinputech.com
 yinyuanhotel.net
 yiqisese.com
-yiqishangmao.com
 yiren02.com
 yisouxinxi.com
 yixingim.com
@@ -49809,6 +49801,7 @@ zzz.clickbank.net
 .pcfg.wps.cn
 .pcgamer-gb.pcgamer.com
 .pci3oo5mg4mn-a.akamaihd.net
+.pcidata.cn
 .pciidk.shopee.vn
 .pcjdyp.com
 .pclick.europe.yahoo.com
@@ -54761,6 +54754,7 @@ zzz.clickbank.net
 .shuiguo.com
 .shuihulu.com
 .shuikan.xyz
+.shujupie.com
 .shujuwu.com
 .shukongshebei.net
 .shunguts.com
